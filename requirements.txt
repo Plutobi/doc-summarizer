@@ -1,0 +1,4 @@
+anthropic
+streamlit
+pypdf2
+python-docx
