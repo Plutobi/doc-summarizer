@@ -176,4 +176,4 @@ else:
 
 # ── Footer ───────────────────────────────────────────────────
 st.divider()
-st.caption("Built with Claude AI · Day 2 of 15-Day AI Automation Sprint")
+
